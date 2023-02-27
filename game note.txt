@@ -1,0 +1,8 @@
+game
+
+story
+characters pc - stands for playing characters npc non - playing characters
+controls 
+rules
+adapdibility 
+goal
